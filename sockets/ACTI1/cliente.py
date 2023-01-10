@@ -43,5 +43,6 @@ class Cliente():
 		self.s.send(pickle.dumps(msg))
 
 arrancar = Cliente()
+# Revisión parte del cliente  finalizada
 
 		
